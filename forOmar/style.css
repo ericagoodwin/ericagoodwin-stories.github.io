@@ -18,9 +18,11 @@
 
 .text {
 	position: fixed;
+	top: 50px;
 	left: 800px;
 	bottom: 100px;
 	color: #BDBDBD;
+	overflow:scroll;
 }
 
 .header {
