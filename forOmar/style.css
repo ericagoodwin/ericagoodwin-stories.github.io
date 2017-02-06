@@ -1,16 +1,13 @@
 * {
   font-size: 18px;
   font-family: 'Source Serif Pro', serif;
-
 }
 
 .image img {
 	background-attachment: relative;
 	height: 40%;
 	margin: 0px;
-	max-width: 200px;
-	width: 50%;
-	
+	overflow: scroll;	
 }
 
 .image {
@@ -24,6 +21,7 @@
 	left: 800px;
 	bottom: 100px;
 	color: #BDBDBD;
+	height: 100%;
 	overflow:scroll;
 }
 
