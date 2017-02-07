@@ -4,7 +4,7 @@
 }
 
 .image img {
-	background-attachment: relative;
+	background-attachment: fixed;
 	height: 40%;
 	margin: 0px;
 	overflow: scroll;	
@@ -19,9 +19,9 @@
 	position: fixed;
 	top: 50px;
 	left: 800px;
-	bottom: 100px;
+	bottom: 200px;
 	color: #BDBDBD;
-	height: 100%;
+	height: 90%;
 	overflow:scroll;
 }
 

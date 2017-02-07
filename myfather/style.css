@@ -13,9 +13,10 @@
 
 .image {
 	margin-top: 20px;
+	text-align: center;
 }
 .text {
-	text-align: left;
+	text-align: center;
 	width: 70%;
 	margin-left: 200px;
 	margin-bottom: 100px;
