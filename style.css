@@ -6,9 +6,13 @@
 	text-align: center;
 	color: #808080;
 	position: fixed;
-	width: 100%;
-	top: 20px;
+	top: 30px;
+	left: 45%;
 	background-color: white;
+	width: 200px;
+	height: 50px;
+	padding: 10px 0px 0px 0px;
+	background-position: center;
 
 }
 
@@ -16,11 +20,11 @@
 	font-size: 20px;
 	text-align: center;
 	position: fixed;
-	top: 60px;
+	top: 120px;
 	margin: auto;
 	color: #808080;
 	background-position: center;
-	left: 43%;
+	left: 44%;
 	background-color: white;
 	padding: 10px;
 
@@ -45,6 +49,8 @@ a:hover {
 	background-position: center;
 	text-align: center;
 	bottom: 150px;
+	font-size: 10px;
+	color: #808080 ;
 
 }
 
