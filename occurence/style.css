@@ -1,21 +1,30 @@
 * {
-  font-size: 19px;
+  font-size: 15px;
   font-family: 'Source Serif Pro', serif;
 }
 
 .note {
+	padding: 10px;
 	text-align:center;
-	font-size: 17px;
+	font-size: 14px;
 	font-style: italic;
+	color: darkslategrey;
 }
+
 .text {
-	text-align: center;
-	width: 60%;
-	
+	position: relative;
+	width: 74%;
+	left: 13%;
+
 }
 
 .title {
 	font-size: 20px;
 	text-align:center;
 	margin-top: 20px;
+}
+
+hr {
+	width: 90%;
+	border-width: 1px;
 }

@@ -57,6 +57,7 @@ a:hover {
 }
 
 .images img {
+	background-position: center;
 	background-attachment: fixed;
 	margin: 0px;
 	overflow: scroll;
