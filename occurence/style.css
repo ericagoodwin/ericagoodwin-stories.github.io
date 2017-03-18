@@ -1,0 +1,21 @@
+* {
+  font-size: 19px;
+  font-family: 'Source Serif Pro', serif;
+}
+
+.note {
+	text-align:center;
+	font-size: 17px;
+	font-style: italic;
+}
+.text {
+	text-align: center;
+	width: 60%;
+	
+}
+
+.title {
+	font-size: 20px;
+	text-align:center;
+	margin-top: 20px;
+}
