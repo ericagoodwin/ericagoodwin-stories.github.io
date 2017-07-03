@@ -1,2 +1,2 @@
 # stories
-experimenting with some one-page writing + html
+a lil homemade page for pieces of my life
