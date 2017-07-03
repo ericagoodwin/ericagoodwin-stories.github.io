@@ -2,6 +2,7 @@
   font-size: 16px;
   font-family: 'Source Serif Pro', serif;
   display: inline-block;
+  background-image: url("hanoi.JPG");
 }
 
 p {
@@ -11,6 +12,8 @@ p {
 	position: absolute;
 	z-index: 100;
 	margin-left: 8%;
+	z-index: -1;
+	background-image: none;
 }
 
 .pic img {
